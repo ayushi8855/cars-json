@@ -19,7 +19,7 @@
         "Price": 800000
       }
     ],
-  "wishlisted_cars": [
+  "wishlisted_car": [
       {
         "id": 1,
         "brand": "Tata",
