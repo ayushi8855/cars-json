@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ayushi8855/cars-json#readme",
   "dependencies": {
-    "json-server": "^0.17.0"
+    "json-server": "^0.17.0",
+    "nodemon": "^2.0.20"
   }
 }
